@@ -1,6 +1,7 @@
-## Hi there 👋
 
-**H3xV0rT3x/H3xV0rT3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**H3xV0rT3x/H3xV0rT3x** 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hex4vortex%3A+H3llo%2Cwelcome+to+my+page.;We+are+everywhere..err;Err0r+404.)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
